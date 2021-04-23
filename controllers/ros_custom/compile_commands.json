@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-O3",
+      "-DNDEBUG",
+      "-std=c++11",
+      "-isystem",
+      "/usr/local/webots/projects/default/controllers/ros/include",
+      "-isystem",
+      "/opt/ros/noetic/include",
+      "-I.",
+      "-I/usr/local/webots/include/controller/cpp",
+      "-o",
+      "build/release/Ros.o",
+      "Ros.cpp"
+    ],
+    "directory": "/home/fede/catkin_ws/src/webots_benchmark/controllers/ros_custom",
+    "file": "/home/fede/catkin_ws/src/webots_benchmark/controllers/ros_custom/Ros.cpp",
+    "output": "/home/fede/catkin_ws/src/webots_benchmark/controllers/ros_custom/build/release/Ros.o"
+  }
+]
