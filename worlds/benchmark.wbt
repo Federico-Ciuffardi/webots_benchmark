@@ -9259,6 +9259,7 @@ DEF p3dx_1 Robot {
   }
   controller "ros_custom"
   controllerArgs [
+    "--synchronize"
     "--name=p3dx_1"
   ]
   supervisor TRUE
