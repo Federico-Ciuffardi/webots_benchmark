@@ -25,6 +25,6 @@ A simple ros-webots simulation used as a benchmark.
 
 * Execute: `git clone https://github.com/cyberbotics/webots_ros`
 
-* Execute: `git clone https://github.com/Federico-Ciuffardi/webots_benchmark`
+* Execute: `git clone https://gitlab.fing.edu.uy/federico.ciuffardi/webots_benchmark.git`
 
 * From now on execute the following command to run the simulation:`~/catkin_ws/src/webots_benchmark/run_simulation.sh`
